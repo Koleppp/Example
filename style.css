@@ -1,13 +1,16 @@
 /*body*/
 body{
 	background-color: lightgrey;
-	position: fixed;
+	
 
 }
 
 /*navbar*/
 .navbar{
 	background-color: #EEEEEE;
+	position: fixed;
+	position: left;
+	z-index: 99;
 }
 .svgatas svg{
 	margin-right: 20px;
