@@ -1,19 +1,14 @@
 /*body*/
 body{
 	background-color: lightgrey;
-	
-
 }
 
 /*navbar*/
 .navbar{
 	background-color: #EEEEEE;
 	position: fixed;
-<<<<<<< HEAD
 	width: 100%;
 	z-index: 99;
-=======
->>>>>>> 533a117806f2d862254b514e96a8532f02dcc385
 	
 }
 .svgatas svg{
