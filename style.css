@@ -6,6 +6,10 @@ body{
 /*navbar*/
 .navbar{
 	background-color: #EEEEEE;
+	position: fixed;
+	width: 100%;
+	z-index: 99;
+	
 }
 .svgatas svg{
 	margin-right: 20px;
